@@ -1,7 +1,7 @@
 # csci318
 
 <style>
-body {background-color: blue;
+body {background: blue;
 }
 </style>
 <h1>Computer Language Concepts</h1>
