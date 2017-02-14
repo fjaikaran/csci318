@@ -1,6 +1,6 @@
 # csci318
 
-<style>
+<style> 
 body{ 
 	background: black;
 	color: white;
