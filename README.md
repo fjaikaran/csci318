@@ -10,7 +10,7 @@ body{
 <h1>Computer Language Concepts</h1>
 
 <h2>John Hayden</h2>
-<img src="/Pictures/img_2364.jpg" alt="John" style="width:304px;height:228px;">
+<img src="/Pictures/img_2364.jpg" alt="John" width="24" height="39">
 <p>Hi, my name is John Hayden. I am currently in my second semester as a junior here at NYIT. My major is information technology. I currently own and run a sneaker business, as well as working a full time job at a local hardware store.</p>
 <h2>Fayaz Jaikaran</h2>
 <p>I am a senior working on my bachelors in IT. I will be graduating after this semester. I recently worked at Lagaurdia as
